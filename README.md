@@ -209,7 +209,7 @@ const azharudeen = {
 | **[🌐 ZenSpace Social](https://github.com/azharudeenssss-creator)** | Next.js · GraphQL · Storybook | Full-stack social platform · **1,000+ interactions in month 1** |
 | **[📝 Headless CMS Site](https://github.com/azharudeenssss-creator)** | Next.js · Contentful · Sanity · GraphQL · Vercel | SSG/ISR + CI/CD · **content publish time: hours → minutes** |
 | **[🧱 Micro-Frontend Monorepo](https://github.com/azharudeenssss-creator)** | Turborepo · Storybook · GitLab CI/CD · Docker | **3 independent teams**, shared design system, per-package pipelines |
-|** [Expense Tracker Web Application 💰]**Live Demo:** https://expense-tracker-web-application-4vm.vercel.app/#/-**|Tech StackReact.js JavaScript (ES6+) CSS3 / Tailwind CSSContext API / Redux (if used) Chart.js / Recharts (if used)
+| ** [Expense Tracker Web Application 💰]**Live Demo:** https://expense-tracker-web-application-4vm.vercel.app/#/-**|Tech StackReact.js JavaScript (ES6+) CSS3 / Tailwind CSSContext API / Redux (if used) Chart.js / Recharts (if used)
 Local Storage
 </div>
 
